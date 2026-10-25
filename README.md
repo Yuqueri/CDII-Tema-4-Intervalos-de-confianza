@@ -346,15 +346,3 @@ plt.show()
 
 ---
 
-## 7. Conceptos de Python que aparecen
-
-| Concepto | Ejemplo |
-|---|---|
-| Parámetros opcionales con valor por defecto | `def f(x, nivel_confianza=0.95)` |
-| `None` y el operador `is` | `if sigma is None:` (se compara con `is`, no con `==`) |
-| Excepciones propias | `raise ValueError("falta sigma")`, `raise TypeError(...)` |
-| Comprobar tipos | `isinstance(muestra, (list, np.ndarray))` |
-| Comprensión de listas | `[choice(indices) for _ in range(n)]` |
-| f-strings con formato | `f"({inferior:.2f}, {superior:.2f})"` |
-| Recursión | una función que se llama a sí misma, con caso base |
-| Semillas | `random.seed(42)`, `np.random.default_rng(42)` |
