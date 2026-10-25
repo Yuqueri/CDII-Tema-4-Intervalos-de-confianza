@@ -14,7 +14,6 @@ pip install numpy scipy matplotlib
 4. [Bootstrap](#4-bootstrap)
 5. [Números pseudoaleatorios](#5-números-pseudoaleatorios)
 6. [Gráficos útiles](#6-gráficos-útiles)
-7. [Conceptos de Python que aparecen](#7-conceptos-de-python-que-aparecen)
 
 ---
 
